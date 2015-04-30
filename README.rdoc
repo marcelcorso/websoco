@@ -1,0 +1,1 @@
+a websocket server that writes to os.Stdout 
